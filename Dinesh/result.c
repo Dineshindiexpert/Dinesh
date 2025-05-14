@@ -38,7 +38,7 @@ int main()
 
     for (int k = 0; k < stno; k++)
     {
-        printf("Student %s - Hindi: %d, English: %d\n", name[k], hindi[k], eng[k]);
+        printf("Student %s - Hindi: %d, English: %d, Maths: %d,scienc: %d\n", name[k], hindi[k], eng[k],math[k],sci[k]);
     }
 
     return 0;
